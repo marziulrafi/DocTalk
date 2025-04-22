@@ -1,0 +1,147 @@
+[
+    {
+      "DoctorImage": "https://i.ibb.co.com/x87QtRNf/image.jpg",
+      "Name": "Dr. Tanjina Rahman",
+      "Education": "MBBS, FCPS (Internal Medicine)",
+      "Speciality": "Internal Medicine",
+      "Experience": "13+ Years Experience",
+      "WorkingPlace": "Ibn Sina Medical College Hospital",
+      "RegistrationNumber": "BD102938",
+      "Fee": "850 BDT",
+      "FeeInt": 850,
+      "AvailabilityDays": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/xSGTQPb3/image-1.jpg",
+      "Name": "Dr. Farzana Akter",
+      "Education": "MBBS, MS (Obstetrics & Gynecology)",
+      "Speciality": "Gynecology & Obstetrics",
+      "Experience": "14+ Years Experience",
+      "WorkingPlace": "Labaid Specialized Hospital",
+      "RegistrationNumber": "BD746382",
+      "Fee": "950 BDT",
+      "FeeInt": 950,
+      "AvailabilityDays": ["Sunday", "Tuesday", "Thursday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/pjVr4N2C/image-12.jpg",
+      "Name": "Dr. Kamrul Hasan",
+      "Education": "MBBS, MS (General Surgery)",
+      "Speciality": "General Surgery",
+      "Experience": "20+ Years Experience",
+      "WorkingPlace": "Green Life Medical College Hospital",
+      "RegistrationNumber": "BD908172",
+      "Fee": "750 BDT",
+      "FeeInt": 750,
+      "AvailabilityDays": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/WWd497yx/image-3.jpg",
+      "Name": "Dr. Selina Akter",
+      "Education": "MBBS, MD (Cardiology)",
+      "Speciality": "Cardiology",
+      "Experience": "11+ Years Experience",
+      "WorkingPlace": "Labaid Cardiac Hospital",
+      "RegistrationNumber": "BD563728",
+      "Fee": "1250 BDT",
+      "FeeInt": 1250,
+      "AvailabilityDays": ["Sunday", "Monday", "Wednesday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/Rkm8k57z/image-4.jpg",
+      "Name": "Dr. Aminul Islam",
+      "Education": "MBBS, MS (Orthopedic Surgery)",
+      "Speciality": "Orthopedic Surgery",
+      "Experience": "16+ Years Experience",
+      "WorkingPlace": "Evercare Hospital Dhaka",
+      "RegistrationNumber": "BD349821",
+      "Fee": "1450 BDT",
+      "FeeInt": 1450,
+      "AvailabilityDays": ["Sunday", "Tuesday", "Friday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/vxzTfK61/image-5.jpg",
+      "Name": "Dr. Nabila Chowdhury",
+      "Education": "MBBS, FCPS (Pediatrics)",
+      "Speciality": "Pediatrics",
+      "Experience": "10+ Years Experience",
+      "WorkingPlace": "Dhaka Shishu Hospital",
+      "RegistrationNumber": "BD447321",
+      "Fee": "950 BDT",
+      "FeeInt": 950,
+      "AvailabilityDays": ["Monday", "Wednesday", "Saturday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/fVKHmrYK/image-6.jpg",
+      "Name": "Dr. Zahidul Islam",
+      "Education": "MBBS, FCPS (Neurology)",
+      "Speciality": "Neurology",
+      "Experience": "18+ Years Experience",
+      "WorkingPlace": "Bangladesh Specialized Hospital",
+      "RegistrationNumber": "BD772100",
+      "Fee": "1350 BDT",
+      "FeeInt": 1350,
+      "AvailabilityDays": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/SDP0t3DB/image-7.jpg",
+      "Name": "Dr. Shaila Sultana",
+      "Education": "MBBS, DDV (Dermatology)",
+      "Speciality": "Dermatology",
+      "Experience": "9+ Years Experience",
+      "WorkingPlace": "Care Medical Center, Dhanmondi",
+      "RegistrationNumber": "BD234156",
+      "Fee": "750 BDT",
+      "FeeInt": 750,
+      "AvailabilityDays": ["Monday", "Wednesday", "Saturday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/hFdjbTRL/image-8.jpg",
+      "Name": "Dr. Masud Karim",
+      "Education": "MBBS, MD (Nephrology)",
+      "Speciality": "Nephrology",
+      "Experience": "12+ Years Experience",
+      "WorkingPlace": "Central Hospital, Dhanmondi",
+      "RegistrationNumber": "BD198273",
+      "Fee": "1150 BDT",
+      "FeeInt": 1150,
+      "AvailabilityDays": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/XrwzrvKk/image-9.jpg",
+      "Name": "Dr. Nusrat Hossain",
+      "Education": "MBBS, FCPS (ENT)",
+      "Speciality": "ENT Specialist",
+      "Experience": "15+ Years Experience",
+      "WorkingPlace": "BRB Hospital, Dhaka",
+      "RegistrationNumber": "BD665577",
+      "Fee": "900 BDT",
+      "FeeInt": 900,
+      "AvailabilityDays": ["Sunday", "Tuesday", "Thursday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/x8qwZdzh/image-10.jpg",
+      "Name": "Dr. Rakib Hasan",
+      "Education": "MBBS, MD (Psychiatry)",
+      "Speciality": "Psychiatry",
+      "Experience": "17+ Years Experience",
+      "WorkingPlace": "Bangladesh Mental Health Institute",
+      "RegistrationNumber": "BD882244",
+      "Fee": "1000 BDT",
+      "FeeInt": 1000,
+      "AvailabilityDays": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "DoctorImage": "https://i.ibb.co.com/fGPbXsdN/image-11.jpg",
+      "Name": "Dr. Moumita Das",
+      "Education": "MBBS, MS (Ophthalmology)",
+      "Speciality": "Eye Specialist",
+      "Experience": "11+ Years Experience",
+      "WorkingPlace": "Dhaka Eye Care Hospital",
+      "RegistrationNumber": "BD113355",
+      "Fee": "850 BDT",
+      "FeeInt": 850,
+      "AvailabilityDays": ["Tuesday", "Thursday", "Saturday"]
+    }
+  ]
+  
