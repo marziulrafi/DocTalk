@@ -27,7 +27,7 @@ const Doctors = ({doctors}) => {
       {!showAll && doctors.length > 6 && (
         <div className="flex justify-center mt-6">
           <button 
-            className="px-6 py-2 text-xl font-bold bg-blue-500 text-white rounded-full hover:bg-blue-600 transition"
+            className="px-6 cursor-pointer py-2 text-xl font-bold bg-blue-500 text-white rounded-full hover:bg-blue-600 transition"
             onClick={() => setShowAll(true)}
           >
             View All Doctors

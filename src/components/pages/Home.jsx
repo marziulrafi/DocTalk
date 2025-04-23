@@ -2,6 +2,7 @@ import React from "react";
 import Banner from "../Banner"
 import Doctors from "../Doctors";
 import { useLoaderData } from "react-router";
+import Milestones from "../Milestones";
 
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
         <div>
            <Banner/>
            <Doctors doctors={doctors} />
+           <Milestones/>
         </div>
     )
 };
