@@ -2,6 +2,7 @@ import React from "react";
 import { Outlet, useNavigation } from "react-router-dom";
 import { BeatLoader as ClipLoader } from "react-spinners";
 import Navbar from "../Navbar";
+import Footer from "../Footer";
 
 
 const loaderContainerStyle = {
@@ -31,7 +32,7 @@ const Root = () => {
             ) : (
                 <Outlet />
             )}
-            
+            <Footer/>
         </div>
     );
 }
