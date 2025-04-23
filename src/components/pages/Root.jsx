@@ -1,6 +1,6 @@
 import React from 'react';
 
-const RouterError = () => {
+const Root = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const RouterError = () => {
     );
 };
 
-export default RouterError;
+export default Root;

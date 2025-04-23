@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from "../assets/logo.png"
+import { Link } from 'react-router';
 
 const Navbar = () => {
     return (
@@ -13,12 +14,26 @@ const Navbar = () => {
                     <ul
                         tabIndex={0}
                         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                        <li><a>Home</a></li>
-                    <li>
-                        <a>Bookings</a>
-                    </li>
-                    <li><a>Blogs</a></li>
-                    <li><a>Contacts</a></li>
+                        <Link to="/">
+                <li>
+                  <a>Home</a>
+                </li>
+              </Link>
+              <Link to="/bookings">
+                <li>
+                  <a>Bookings</a>
+                </li>
+              </Link>
+              <Link to="/blogs">
+                <li>
+                  <a>Blogs</a>
+                </li>
+              </Link>
+              <Link to="/*">
+              <li>
+                <a>Contacts</a>
+              </li>
+              </Link>
                     </ul>
                 </div>
                 <div className="flex items-center gap-0.5">
@@ -28,12 +43,26 @@ const Navbar = () => {
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
-                    <li><a>Home</a></li>
-                    <li>
-                        <a>Bookings</a>
-                    </li>
-                    <li><a>Blogs</a></li>
-                    <li><a>Contacts</a></li>
+                <Link to="/">
+              <li>
+                <a>Home</a>
+              </li>
+            </Link>
+            <Link to="/bookings">
+              <li>
+                <a>Bookings</a>
+              </li>
+            </Link>
+            <Link to="/blogs">
+              <li>
+                <a>Blogs</a>
+              </li>
+            </Link>
+            <Link to="*">
+              <li>
+                <a>Contact US</a>
+              </li>
+              </Link>
                 </ul>
             </div>
             <div className="navbar-end">

@@ -1,10 +1,10 @@
 import React from "react";
 import BannerImg from '../assets/banner-img-1.png';
 
-const Hero = () => {
+const Banner = () => {
 
   return (
-    
+
     <div className="font-plus flex flex-col gap-4 items-center border-white border-2 rounded-3xl px-4 py-12 mt-5 w-3/4 mx-auto
     bg-linear-to-b from-[#EFEFEF] to-white">
       <h1 className="text-[3rem] font-extrabold font-plus text-center">Dependable Care, Backed by Trusted <br />Professionals.</h1>
@@ -26,4 +26,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Banner;
