@@ -44,7 +44,7 @@ const Doctor = ({ doctor }) => {
           <button
             className="btn border-2
       text-xl font-bold border-[#176AE5] text-[#176AE5] rounded-full w-full"
-            onClick={() => (window.location.href = `/doctor/${RegistrationNumber}`)}
+            onClick={() => (window.location.href = `./doctor/${RegistrationNumber}`)}
           >
             View Details
           </button>

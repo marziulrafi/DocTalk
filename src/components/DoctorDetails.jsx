@@ -26,10 +26,10 @@ const DoctorDetails = () => {
         <div className="w-3/4 mx-auto mt-10">
             <div className="text-center rounded-3xl bg-white p-10">
                 <h1 className="text-[2.5rem] font-extrabold">
-                    Doctor’s Profile Details
+                    Doctor's Profile Details
                 </h1>
                 <p className="font-medium opacity-80 text-[1.1rem]">
-                    Details for our esteemed doctor
+                    Details of your chosen doctor
                 </p>
             </div>
             <div className="text-center rounded-3xl bg-white p-10 mt-10">
@@ -71,7 +71,7 @@ const DoctorDetails = () => {
                         </div>
                         <div>
                             <p className="flex items-center">
-                                <span className="font-extrabold mr-1">Consultation fee:</span>
+                                <span className="font-extrabold mr-1">Consultation Fee:</span>
                                 <span className="font-extrabold text-[#176AE5] mr-1">{doctor.Fee}</span>
                                 <span className="text-[#00000080] mr-1 font-medium">(incl. Vat)</span>
                                 <span className="text-[#176AE5] font-medium">Per consultation</span>
