@@ -24,7 +24,8 @@ const DoctorDetails = () => {
     };
 
     return (
-        <div className="w-3/4 mx-auto mt-10">
+        <div className="bg-[#EFEFEF]">
+            <div className="w-3/4 mx-auto">
             <div className="text-center rounded-3xl bg-white p-10">
                 <h1 className="text-[2.5rem] font-extrabold">
                     Doctor's Profile Details
@@ -93,6 +94,7 @@ const DoctorDetails = () => {
                     Book Appoinment Now
                 </button>
             </div>
+        </div>
         </div>
     );
 };

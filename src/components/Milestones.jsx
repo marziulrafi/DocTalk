@@ -17,7 +17,7 @@ const Milestones = () => {
           various specialties — all at your convenience.
         </p>
       </div>
-      <div className="md:flex md:flex-row md:gap-4 md:mt-10 flex flex-col gap-4 mt-10">
+      <div className="mb-10 md:flex md:flex-row md:gap-4 md:mt-10 flex flex-col gap-4 mt-10">
         <div className="bg-white px-12 py-10 rounded-2xl flex flex-col gap-2 text-left">
           <img src={Board} className="w-16" alt="" />
           <h1 className="text-[4rem] font-extrabold"><CountUp duration={3} enableScrollSpy 
