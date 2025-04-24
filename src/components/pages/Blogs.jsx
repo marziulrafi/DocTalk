@@ -10,7 +10,7 @@ const Blogs = () => {
     console.log("blogs", blogs)
     return (
         <div>
-            <h1 className="text-6xl font-extrabold text-center mt-10">Read Our Latest Blogs</h1>
+            <h1 className="text-4xl text-center font-extrabold mt-10">Read the latest blogs</h1>
         <div className="mt-10">
         {
             blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)

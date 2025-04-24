@@ -1,6 +1,7 @@
 import React from "react";
 import { useLoaderData, useNavigate } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
+import R from "../assets/r.png";
 
 
 const DoctorDetails = () => {
@@ -59,7 +60,7 @@ const DoctorDetails = () => {
                         </div>
                         <div>
                             <p className="opacity-80 py-3 flex items-center gap-1 text-[1.1rem] font-medium border-t-2 border-b-2 border-[#00000080] border-dashed">
-
+                                <img src={R} alt="" />
                                 Reg No: {doctor.RegistrationNumber}
                             </p>
                         </div>

@@ -33,13 +33,13 @@ const Footer = () => {
         </div>
     
           <div className="grid grid-flow-col gap-4">
-            <a href="https://www.facebook.com/" target="_blank">
+            <a href="https://www.facebook.com/marziul.rafi" target="_blank">
               <img src={facebook} alt="" />
             </a>
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/marziulkarim" target="_blank">
               <img src={linkedin} alt="" />
             </a>
-            <a href="https://x.com/" target="_blank">
+            <a href="https://x.com/_marziul_" target="_blank">
               <img src={X} alt="" />
             </a>
             

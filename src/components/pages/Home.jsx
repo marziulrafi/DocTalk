@@ -1,7 +1,7 @@
 import React from "react";
+import { useLoaderData } from "react-router";
 import Banner from "../Banner"
 import Doctors from "../Doctors";
-import { useLoaderData } from "react-router";
 import Milestones from "../Milestones";
 
 

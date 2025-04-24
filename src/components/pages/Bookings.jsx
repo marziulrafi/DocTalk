@@ -92,13 +92,13 @@ const Bookings = () => {
       </div>
       <div>
         {bookings.length === 0 ? (
-          <div className="w-3/4 mx-auto flex flex-col justify-center gap-4">
+          <div className="flex flex-col justify-center w-3/4 mx-auto gap-4">
             <h1 className="text-3xl font-extrabold text-center mt-10">You don't have any appointments</h1>
-            <button onClick={() => navigate("/")} className="btn bg-[#176AE5] text-white rounded-full">Go Home</button>
+            <button onClick={() => navigate("/")} className="btn text-white rounded-full bg-[#176AE5] ">Go Home</button>
           </div>
         ) : (
           <>
-            <h1 className="text-3xl font-extrabold text-center mt-10">
+            <h1 className="text-3xl text-center font-extrabold mt-10">
               My Appointments
             </h1>
             <p className="font-medium opacity-80 text-center">

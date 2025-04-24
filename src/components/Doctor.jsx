@@ -1,4 +1,5 @@
 import React from "react";
+import R from "../assets/r.png";
 
 const Doctor = ({ doctor }) => {
   const {
@@ -15,7 +16,7 @@ const Doctor = ({ doctor }) => {
   return (
     <div className="card bg-base-100 w-96 shadow-sm">
       <figure className="px-10 pt-10">
-        <img src={DoctorImage} alt="Doctor" className="rounded-xl" />
+        <img src={DoctorImage} alt="" className="rounded-xl" />
       </figure>
       <div className="card-body flex flex-col gap-3 text-left">
         <div className="flex gap-1 text-sm font-medium">
@@ -37,7 +38,7 @@ const Doctor = ({ doctor }) => {
           {Education} - {Speciality}
         </p>
         <p className="opacity-80 flex items-center gap-1 text-[1.1rem] font-medium">
-         
+         <img src={R} alt="" />
           Reg No: {RegistrationNumber}
         </p>
         <div className="card-actions">
