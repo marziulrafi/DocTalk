@@ -61,7 +61,8 @@ const Bookings = () => {
 
 
   return (
-    <div className="w-3/4 mx-auto mt-10">
+    <div className="bg-[#EFEFEF] p-5">
+      <div className="w-3/4 mx-auto mt-2">
       <div>
         {
           bookings.length === 0 ? (
@@ -127,6 +128,7 @@ const Bookings = () => {
           </div>
         ))}
       </div>
+    </div>
     </div>
   );
 };

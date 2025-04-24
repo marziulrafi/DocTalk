@@ -24,7 +24,7 @@ const DoctorDetails = () => {
     };
 
     return (
-        <div className="bg-[#EFEFEF]">
+        <div className="bg-[#EFEFEF] p-8">
             <div className="w-3/4 mx-auto">
             <div className="text-center rounded-3xl bg-white p-10">
                 <h1 className="text-[2.5rem] font-extrabold">

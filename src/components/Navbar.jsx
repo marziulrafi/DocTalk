@@ -4,7 +4,7 @@ import { Link, NavLink } from 'react-router';
 
 const Navbar = () => {
   return (
-    <div className="navbar bg-base-100 shadow-sm">
+    <div className="navbar bg-[#EFEFEF] shadow-sm">
       <div className="navbar-start">
         <img src="../images/logo.png" alt="" />
         <div className="dropdown">

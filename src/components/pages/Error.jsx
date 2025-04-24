@@ -9,7 +9,7 @@ const Error = () => {
     return (
         <div>
             <Navbar />
-            <div>
+            <div className="bg-[#EFEFEF] p-32">
                 <img className="w-96 mx-auto mt-16" src={Err} alt="" />
                 <button onClick={() => navigate("/")} className="flex btn bg-[#176AE5] text-white rounded-full mx-auto mt-4 mb-4">Go Home</button>
             </div>

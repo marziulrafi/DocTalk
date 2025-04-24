@@ -10,7 +10,7 @@ const Home = () => {
     const doctors = useLoaderData();
 
     return (
-        <div className="bg-[#EFEFEF]">
+        <div className="bg-[#EFEFEF] p-8">
            <Banner/>
            <Doctors doctors={doctors} />
            <Milestones/>

@@ -9,7 +9,7 @@ const Blogs = () => {
 
     console.log("blogs", blogs)
     return (
-        <div>
+        <div className="bg-[#EFEFEF] p-8">
             <h1 className="text-4xl text-center font-extrabold mt-10">Read the latest blogs</h1>
         <div className="mt-10">
         {
