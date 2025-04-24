@@ -1,5 +1,6 @@
 import React from "react";
 import BannerImg from '../assets/banner-img-1.png';
+import BannerImg2 from '../assets/banner2.png'
 
 const Banner = () => {
 
@@ -15,12 +16,12 @@ const Banner = () => {
         quality care you can trust.
       </p>
       <div className="flex gap-4">
-        <input className="input input-bordered rounded-full w-[20rem]" type="text" placeholder="Search any doctor..." />
+        <input className="input input-bordered rounded-full w-[20rem]" type="text" placeholder="Search any doctor ...." />
         <button className="btn bg-[#176AE5] text-white rounded-full">Search Now</button>
       </div>
       <div className="flex gap-4">
-        <div><img src={BannerImg} alt="" /></div>
-        <div><img src={BannerImg} alt="" /></div>
+        <div><img className="w-xl h-80 rounded-2xl" src={BannerImg} alt="" /></div>
+        <div><img className="w-xl h-80 rounded-2xl" src={BannerImg2} alt="" /></div>
       </div>
     </div>
   );
