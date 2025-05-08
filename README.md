@@ -1,4 +1,4 @@
-# 🚀 DocTalk - Medical Appointment Booking Application 🏥
+# 🚀 DocTalk - Medical Appointment Booking 🏥
 ### ✅ Key Features
 
 - **Doctor Listings:**  
