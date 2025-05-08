@@ -1,7 +1,5 @@
 # 🚀 DocTalk - Medical Appointment Booking Application 🏥
 
-I’m excited to share my **DocTalk - Medical Appointment Booking Application**, built using **React, LocalStorage**, and **Recharts**. This web app allows users to schedule and manage doctor appointments seamlessly.
-
 ---
 
 ## ✅ Key Features
