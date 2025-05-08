@@ -1,6 +1,5 @@
 # 🚀 DocTalk - Medical Appointment Booking Application 🏥
----
-## ✅ Key Features
+### ✅ Key Features
 
 - **Doctor Listings:**  
   View detailed profiles of doctors including their specialty, education, experience, and registration number.
