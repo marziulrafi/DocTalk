@@ -38,4 +38,4 @@ I’m excited to share my **DocTalk - Medical Appointment Booking Application**,
 
 ## 🚀 Demo
 
-Live URL: [BongoBill Live Demo](https://marziul-doctalk.netlify.app/)  
+Live URL: [DocTalk Live Demo](https://marziul-doctalk.netlify.app/)  
