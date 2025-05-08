@@ -1,6 +1,5 @@
 # 🚀 DocTalk - Medical Appointment Booking Application 🏥
 
----
 
 ## ✅ Key Features
 
