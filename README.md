@@ -1,5 +1,11 @@
-# 🚀 DocTalk - Medical Appointment Booking 🏥
-### ✅ Key Features
+# 🏥 DocTalk - Medical Appointment Booking
+
+### 🚀 Live URL: [DocTalk Live Demo](https://marziul-doctalk.netlify.app/)  
+
+
+---
+
+## ✅ Key Features
 
 - **Doctor Listings:**  
   View detailed profiles of doctors including their specialty, education, experience, and registration number.
@@ -28,9 +34,3 @@
 - **Recharts** — For visualizing appointment data.
 - **React Router** — For seamless navigation between pages.
 - **CSS** — For styling and responsiveness.
-
----
-
-## 🚀 Demo
-
-Live URL: [DocTalk Live Demo](https://marziul-doctalk.netlify.app/)  
