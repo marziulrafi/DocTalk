@@ -34,3 +34,26 @@
 - **Recharts** — For visualizing appointment data.
 - **React Router** — For seamless navigation between pages.
 - **CSS** — For styling and responsiveness.
+
+
+---
+
+## 🖥️ How to Run the Project Locally
+
+### ✅ Prerequisites
+- Node.js and npm installed
+- Code editor like VS Code
+
+### 📁 Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/marziulrafi/DocTalk.git
+   cd DocTalk
+2. **Install Dependencies**
+   ```bash
+   npm install
+3. **Firebase Configuration**
+4. **Start the Development Server**
+   ```bash
+   npm run dev
